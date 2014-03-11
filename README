@@ -1,0 +1,6 @@
+an SMS interface to beeradvocate.com ratings via Twilio
+
+config/twilio_config.yml should be of the form
+
+account_sid: <your account SID>
+auth_token: <your auth token>
